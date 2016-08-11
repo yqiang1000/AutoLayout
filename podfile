@@ -1,0 +1,5 @@
+target ‘AutoLayout’ do
+	pod ‘Masonry’
+	pod ‘ReactiveCocoa’, ‘2.0’
+	pod 'SDAutoLayout'
+end
